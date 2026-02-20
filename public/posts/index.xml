@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Tillmann Mühlpfordt</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Tillmann Mühlpfordt</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Feb 2026 15:29:28 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First blood</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 19 Feb 2026 15:29:28 +0100</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Hi there, this is my first post.&#xA;Hence, it comes with the usual clumsy attitude of &lt;em&gt;firsts&lt;/em&gt;: you don&amp;rsquo;t really know how to behave accordingly.&lt;/p&gt;&#xA;&lt;p&gt;So I&amp;rsquo;ll jump into specificity, and provide the event for creating this site: the event triggering this site is that my son has grown fond of chess.&lt;/p&gt;&#xA;&lt;p&gt;Okay?&lt;/p&gt;&#xA;&lt;p&gt;And that, in turn, intrigued me to do some research about the rabbit hole that calls itself &lt;em&gt;chess programming&lt;/em&gt;.&#xA;I thought, why not start some little side project that deploys some chess-related application on a &lt;code&gt;k8s&lt;/code&gt; cluster, or so.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tillmann Mühlpfordt</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Tillmann Mühlpfordt</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Feb 2026 15:29:28 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First blood</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 19 Feb 2026 15:29:28 +0100</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Hi there, this is my first post.&#xA;Hence, it comes with the usual clumsy attitude of &lt;em&gt;firsts&lt;/em&gt;: you don&amp;rsquo;t really know how to behave accordingly.&lt;/p&gt;&#xA;&lt;p&gt;So I&amp;rsquo;ll jump into specificity, and provide the event for creating this site: the event triggering this site is that my son has grown fond of chess.&lt;/p&gt;&#xA;&lt;p&gt;Okay?&lt;/p&gt;&#xA;&lt;p&gt;And that, in turn, intrigued me to do some research about the rabbit hole that calls itself &lt;em&gt;chess programming&lt;/em&gt;.&#xA;I thought, why not start some little side project that deploys some chess-related application on a &lt;code&gt;k8s&lt;/code&gt; cluster, or so.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;tl-dr&#34;&gt;&#xA;  tl; dr&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#tl-dr&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Hi, I am Tillmann, and I am in my mid-thirties.&#xA;I live a happy life in the middle of Germany.&#xA;Most likely, you&amp;rsquo;ll find me reading a book, riding my bike, fancying music (drums, piano, choir), hanging out with lovely people (which applies to my kids in the usual 80-fashion), cooking, or so.&#xA;If not, then I&amp;rsquo;m probably working.&lt;/p&gt;&#xA;&lt;p&gt;Or writing content for this site, maybe.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;Nothing to see here&amp;hellip; Move along!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
